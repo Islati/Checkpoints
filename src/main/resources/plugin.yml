@@ -1,0 +1,10 @@
+name: Checkpoints
+main: com.caved_in.checkpoints.Checkpoints
+version: ${project.version}
+description: Don't fret your mistakes to much, there's checkpoints to save ya!
+author: Brandon Curtis (TheGamersCave)
+depend: [Commons]
+commands:
+   checkpoint:
+      description: Restore yourself to the most recent check point!
+      usage: /<command>

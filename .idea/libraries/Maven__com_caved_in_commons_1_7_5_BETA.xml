@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.caved_in:commons:1.7.5-BETA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/caved_in/commons/1.7.5-BETA/commons-1.7.5-BETA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/caved_in/commons/1.7.5-BETA/commons-1.7.5-BETA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/caved_in/commons/1.7.5-BETA/commons-1.7.5-BETA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
